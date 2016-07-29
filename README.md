@@ -1,0 +1,2 @@
+# algorithmjs
+algorithmjs是一个基础javascript算法库
